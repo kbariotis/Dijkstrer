@@ -1,3 +1,9 @@
+ABOUT THIS PROJECT:
+    Occasion this was the a course of my school and decided to get it online 
+    so i can get other's developers opinion and comments on my code.
+
+    *Observations, proposals, greetings are always accepted.
+
 ABOUT Dijkstrer:
     Dijkstrer is a C application which calculate the shortest path of a graph
     using Dijkstra's Algorithm[1]. Dijkstrer uses MPI library to implement 
